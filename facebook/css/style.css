@@ -1,0 +1,64 @@
+body{
+    background-color: #f0f2f5;
+  background-image: linear-gradient(to right bottom, rgba(255, 255, 255,0.9),rgba(255, 255, 255,0.9)),url(../images/Screenshot\ \(10\).png);
+background-size: cover;
+} 
+.boss{
+    width: 432px !important;
+    height:600px ;
+    background-color: white !important;
+    margin-left:500px;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif !important;
+
+}
+.n{
+    width: 170px;  height: 40px; margin-left: 20px; background-color: #f5f6f7; border:1px solid #ccd0d5;
+    border-radius: 5px;
+}
+.n1{
+    width: 370px;  height: 40px;  background-color: #f5f6f7; border:1px solid #ccd0d5;
+    border-radius: 5px;margin-left: 20px;
+
+}
+.n:active{
+border: 1px solid #ccd0d5 !important;
+outline: 1px solid #ccd0d5 !important;
+}
+input::placeholder{
+    color: #8D949E;
+    
+}
+.nn{
+    border-radius: 4px;
+    color: #1c1e21;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    height: 36px;
+    line-height: 20px;
+    margin-left: 20px;
+    width: 110px;
+}
+.nnn{
+    border: 1px solid #ccd0d5;padding: 10px;border-radius: 5px; width: 110px;  height: 36px;
+    margin: 5px;
+}
+.nb{
+    background: none;
+    background-color: #00a400;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none
+;
+margin-left: 140px;
+}

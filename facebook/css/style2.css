@@ -1,0 +1,120 @@
+body{
+    background-color: #f0f2f5 !important;
+}
+.logo
+{
+    height: 106px;
+
+margin-top: 170px;
+margin-left: 150px;
+}
+.p{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    color: #1c1e21;
+    direction: ltr;
+    margin-left: 150px;
+    position: relative;
+bottom: 40px;
+left: 30px;
+
+}
+.r{
+    float: right;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    width: 396px;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    height: 350px;
+    position: relative;
+    top: 80px;
+    right: 200px;
+}
+input::placeholder{
+    color:#9E949C ;
+    
+}
+/**/
+.e
+{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    height: 22px;
+    line-height: 16px
+    ;
+    margin-left: 15px;
+    border: 1px solid #ccd0d5 !important;
+outline: none;
+border-radius: 7px !important;
+}
+input:active{
+    border: 1px solid #1877f2;
+}
+.btn{
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+background-color: #1877F2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 332px;
+margin:20px;
+color: #ffffff;
+width: 360px;
+}
+.btn:hover{
+ background-color: #166FE5; 
+}
+.l{
+    color: #1877f2;   
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    direction: ltr;
+    line-height: 1.34
+}
+.l:hover{
+    text-decoration: underline;
+}
+.nm{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    color: #ffff;
+font-weight: bold;
+margin-left: 100px;
+}
+.nm:hover{
+    background-color: #36A420;
+}
+.link{
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+.link:hover
+{
+    text-decoration: black underline;
+}
